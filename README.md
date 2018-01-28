@@ -1,13 +1,13 @@
 # Hugh-Jass' Construction
 Team Spaghetti Yeti's Global Game Jam 2018 submission.
-* [Global Game Jam] (https://globalgamejam.org/2018/games/hugh-jass-construction)
+* [Global Game Jam](https://globalgamejam.org/2018/games/hugh-jass-construction)
 
 ## Screenshots
 
-![Title](https://github.com/RobertG-H/Hugh-Jass-Construction/tree/master/Screenshots/title.png)
-![Gameplay 1](https://github.com/RobertG-H/Hugh-Jass-Construction/tree/master/Screenshots/Gameplay1.png)
-![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/tree/master/Screenshots/Gameplay2.png)
-![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/tree/master/Screenshots/Gamepl3.png)
+![Title](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/title.png)
+![Gameplay 1](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gameplay1.png)
+![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gameplay2.png)
+![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gamepl3.png)
 
 ## Story
 
