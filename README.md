@@ -4,7 +4,7 @@ Team Spaghetti Yeti's Global Game Jam 2018 submission.
 
 ## Screenshots
 
-![Title](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/title.png)
+![Title](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Title.png)
 ![Gameplay 1](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gameplay1.png)
 ![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gameplay2.png)
 ![Gameplay 2](https://github.com/RobertG-H/Hugh-Jass-Construction/blob/master/Screenshots/Gamepl3.png)
