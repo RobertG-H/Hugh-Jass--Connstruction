@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SYLogo.unity
+    guid: d9598d3827d0d9d47a2694cef162bacc
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 7836d9a8a53c09548a2eb6a0679a4e14
+  - enabled: 1
+    path: Assets/Scenes/GameLevel 2.unity
+    guid: 8fddfbc6c6a231943bc641742f5c030c
+  - enabled: 0
+    path: Assets/Scenes/WheelLevel.unity
+    guid: d0caf62e977bfad4c8c3ebae86d9a127
+  - enabled: 1
+    path: Assets/Scenes/WheelLevelFix.unity
+    guid: 74e435d8e77556744902931efb64f531

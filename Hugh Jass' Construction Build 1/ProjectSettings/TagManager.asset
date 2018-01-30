@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Beam1
+  - Beam2
+  - end
+  - start
+  - MaterializedBeam
+  - altTag
+  - Wall
+  - FallingBeam
+  - BeamNeutral
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Beam
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1669594055
+    locked: 0
+  - name: Sun
+    uniqueID: 4275827393
+    locked: 0
+  - name: BG Buildings
+    uniqueID: 3657421207
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 2419071679
+    locked: 0
+  - name: Gun
+    uniqueID: 3535066539
+    locked: 0
